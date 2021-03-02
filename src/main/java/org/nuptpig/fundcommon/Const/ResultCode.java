@@ -1,4 +1,4 @@
-package org.nuptpig.Const;
+package org.nuptpig.fundcommon.Const;
 
 public enum ResultCode {
     SUCCESS(200, "成功"),

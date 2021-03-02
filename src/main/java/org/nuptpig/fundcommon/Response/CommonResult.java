@@ -1,7 +1,7 @@
-package org.nuptpig.Response;
+package org.nuptpig.fundcommon.Response;
 
 import lombok.Data;
-import org.nuptpig.Const.ResultCode;
+import org.nuptpig.fundcommon.Const.ResultCode;
 
 @Data
 public class CommonResult<T> {

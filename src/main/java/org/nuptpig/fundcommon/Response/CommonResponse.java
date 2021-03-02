@@ -1,6 +1,6 @@
-package org.nuptpig.Response;
+package org.nuptpig.fundcommon.Response;
 
-import org.nuptpig.Const.ResultCode;
+import org.nuptpig.fundcommon.Const.ResultCode;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 
